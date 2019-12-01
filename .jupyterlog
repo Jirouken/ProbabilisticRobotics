@@ -1,0 +1,22 @@
+[I 21:57:11.237 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:57:11.342 NotebookApp] JupyterLab beta preview extension loaded from /Users/kenjirou/.pyenv/versions/anaconda3-5.2.0/lib/python3.6/site-packages/jupyterlab
+[I 21:57:11.342 NotebookApp] JupyterLab application directory is /Users/kenjirou/.pyenv/versions/anaconda3-5.2.0/share/jupyter/lab
+[I 21:57:11.365 NotebookApp] Serving notebooks from local directory: /Users/kenjirou/Documents/Program/ProbabilisticRobotics
+[I 21:57:11.366 NotebookApp] 0 active kernels
+[I 21:57:11.366 NotebookApp] The Jupyter Notebook is running at:
+[I 21:57:11.366 NotebookApp] http://localhost:8889/?token=f1b14165bf95668d304cf9020cd2d9e33eec3a7091914425
+[I 21:57:11.366 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:57:11.371 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=f1b14165bf95668d304cf9020cd2d9e33eec3a7091914425&token=f1b14165bf95668d304cf9020cd2d9e33eec3a7091914425
+既存のブラウザ セッションで開いています。
+[I 21:57:13.877 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 21:57:35.743 NotebookApp] Creating new notebook in 
+[I 21:57:37.695 NotebookApp] Kernel started: b97c991a-c663-42fe-86b0-a1e34ae1f1a6
+[I 21:57:40.825 NotebookApp] Adapting to protocol v5.1 for kernel b97c991a-c663-42fe-86b0-a1e34ae1f1a6
+[I 21:59:37.491 NotebookApp] Saving file at /第1章 緒言.ipynb
+[I 22:01:37.480 NotebookApp] Saving file at /第1章 緒言.ipynb
+[I 22:07:37.499 NotebookApp] Saving file at /第1章 緒言.ipynb
+[I 22:07:41.396 NotebookApp] Saving file at /第1章 緒言.ipynb
